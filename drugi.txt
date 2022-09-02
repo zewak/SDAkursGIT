@@ -1,2 +1,3 @@
 1. Pierwszy wpis do drugi.txt
 2. Drugi i pół wpis do drugi.txt
+3. trzeci testowy wpis drugi.txt
