@@ -1,0 +1,2 @@
+funkcja C {
+}
